@@ -1,4 +1,5 @@
 # python dependencies
 
 polars
+plotly
 adbc-driver-postgresql
