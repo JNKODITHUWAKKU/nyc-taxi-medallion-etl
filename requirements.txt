@@ -1,0 +1,4 @@
+# python dependencies
+
+polars
+adbc-driver-postgresql
